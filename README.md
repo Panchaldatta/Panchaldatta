@@ -53,10 +53,9 @@ Welcome to my GitHub profile! I'm a developer who loves building impactful and s
 - 📦 **npm Packaging**: Created modular GitHub calendar package for easy reuse
 
 ---
+## 🔥 GitHub Streak
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Panchaldatta&theme=onedark&margin-w=10&margin-h=10)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Panchaldatta&theme=dark&border_radius=10&mode=weekly)
 
 ---
 
@@ -67,9 +66,10 @@ Welcome to my GitHub profile! I'm a developer who loves building impactful and s
 
 ---
 
-## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Panchaldatta&theme=dark&border_radius=10&mode=weekly)
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Panchaldatta&theme=onedark&margin-w=10&margin-h=10)
 
 ---
 
